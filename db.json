@@ -5,6 +5,12 @@
       "title": "Video For Everybody",
       "desc": "Video is the first minute from the cc-by licenced open movie Big Buck Bunny http://bigbuckbunny.org",
       "url": "http://clips.vorwaerts-gmbh.de/VfE.webm"
+    },
+    {
+      "id": 2,
+      "title": "Do Baatein Ho Sakti Hai",
+      "desc": "Song from super hit movie Imtihaan (1994) starring Sunny Deol, Saif Ali Khan, Raveena Tandon, Baby Ghazala, Asrani, Gulshan Grover, Mohan Joshi, Shakti Kapoor, Dalip Tahil",
+      "url": "https://www.youtube.com/embed/Wvguc0J62c8?autoplay=1&vq=small"
     }
   ],
   "profile": {
