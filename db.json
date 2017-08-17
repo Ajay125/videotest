@@ -4,13 +4,36 @@
       "id": 1,
       "title": "Video For Everybody",
       "desc": "Video is the first minute from the cc-by licenced open movie Big Buck Bunny http://bigbuckbunny.org",
-      "url": "http://clips.vorwaerts-gmbh.de/VfE.webm"
+      "url": "http://clips.vorwaerts-gmbh.de/VfE.webm",
+      "thumbnail":"https://img.youtube.com/vi/MXA2F9m_1Ps/hqdefault.jpg"
     },
     {
       "id": 2,
       "title": "Do Baatein Ho Sakti Hai",
       "desc": "Song from super hit movie Imtihaan (1994) starring Sunny Deol, Saif Ali Khan, Raveena Tandon, Baby Ghazala, Asrani, Gulshan Grover, Mohan Joshi, Shakti Kapoor, Dalip Tahil",
-      "url": "https://www.youtube.com/embed/Wvguc0J62c8?autoplay=1&vq=small"
+      "url": "https://www.youtube.com/embed/Wvguc0J62c8?autoplay=1&vq=small",
+      "thumbnail":"https://img.youtube.com/vi/Wvguc0J62c8/hqdefault.jpg"
+    },
+    {
+      "id": 3,
+      "title": "CodesRoom",
+      "desc": "This is an elearning plateform where any student can hire own tutor for any technology",
+      "url": "https://www.youtube.com/embed/MXA2F9m_1Ps?autoplay=1&vq=small",
+      "thumbnail":"https://img.youtube.com/vi/MXA2F9m_1Ps/hqdefault.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Introduction to Java by CodesRoom",
+      "desc": "This video provides introduction to java , its comparison with others languages, its basic features, uses for making various applications, gui and web applications",
+      "url": "https://www.youtube.com/embed/65BZ_moF_50?autoplay=1&vq=small",
+      "thumbnail":"https://img.youtube.com/vi/65BZ_moF_50/hqdefault.jpg"
+    },
+    {
+      "id": 5,
+      "title": "CSS Transitions by CodesRoom",
+      "desc": "This video explains about How to use CSS transitions, add effects to CSS property, duration of effect, change property value, specifying speed curve of the transition, how to delay transition effect, Transition Examples.",
+      "url": "https://www.youtube.com/embed/HCoPwaZ2K6g?autoplay=1&vq=small",
+      "thumbnail":"https://img.youtube.com/vi/HCoPwaZ2K6g/hqdefault.jpg"
     }
   ],
   "profile": {
