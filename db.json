@@ -11,7 +11,7 @@
 		"id": 3,
 		"title": "CodesRoom",
 		"desc": "This is an elearning plateform where any student can hire own tutor for any technology",
-		"url": "https://www.youtube.com/embed/MXA2F9m_1Ps?autoplay=1&vq=small",
+		"url": "http://codesroom-portal.surge.sh/CodesRoom.mp4",
 		"own": "CodesRoom",
 		"thumbnail": "https://img.youtube.com/vi/MXA2F9m_1Ps/hqdefault.jpg"
 	},
@@ -19,7 +19,7 @@
 		"id": 4,
 		"title": "Introduction to Java by CodesRoom",
 		"desc": "This video provides introduction to java , its comparison with others languages, its basic features, uses for making various applications, gui and web applications",
-		"url": "https://www.youtube.com/embed/65BZ_moF_50?autoplay=1&vq=small",
+		"url": "http://codesroom-portal.surge.sh/CodesRoom.mp4",
 		"own": "CodesRoom",
 		"thumbnail": "https://img.youtube.com/vi/65BZ_moF_50/hqdefault.jpg"
 	},
